@@ -7,6 +7,7 @@ Extras:
 
 1. Add on to the previous program by asking the user for another number and printing out that many 
    copies of the previous message.
+2. Print out that many copies of the previous message on separate lines
 """
 import datetime
 
